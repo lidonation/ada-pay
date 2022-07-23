@@ -2,7 +2,7 @@
 
 namespace LidoNation\Services;
 
-class PaymentGatewayService
+class CardanoWalletService
 {
     
 }
